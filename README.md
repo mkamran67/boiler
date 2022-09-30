@@ -17,7 +17,9 @@
 
 ## Getting Started
 
-First, run the development server:
+First, follow the setup guidelines [here](https://planetscale.com/docs/tutorials/connect-nextjs-app) for Prisma and Planetscale.
+Second, run `yarn or npm install` in the root directory to install all the packages.
+Third, run the app:
 
 ```bash
 npm run dev
